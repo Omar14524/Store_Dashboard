@@ -1,6 +1,4 @@
 
-Here's a README template for your project. Customize it as needed to reflect your project details:
-
 Store Dashboard Project
 This repository contains the Store Dashboard project, where I utilized Excel for data cleaning and Power BI for data visualization to provide meaningful insights into store operations and performance.
 
